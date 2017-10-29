@@ -1,0 +1,24 @@
+{
+    "name": "kodillaFE_week12ex02_js_creating_tweets",
+    "version": "1.0.0",
+    "description": "How to generate a random quote and send it in a tweet in JavaScript",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psdubowik/kodilla-w12e02-js-creating-tweets.git"
+    },
+    "keywords": [
+      "javascript",
+      "twitter"
+    ],
+    "author": "PSD",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psdubowik/kodilla-w12e02-js-creating-tweets/issues"
+    },
+    "homepage": "https://github.com/psdubowik/kodilla-w12e02-creating-tweets#readme"
+  }
+  
