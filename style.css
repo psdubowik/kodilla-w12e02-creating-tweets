@@ -1,0 +1,58 @@
+body {
+    background-color: #dfc1d1;
+}
+
+main {
+    margin: 0 auto;
+    text-align: center;
+    color: #093373;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin: 50px auto;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.container {
+    border: 2px solid #093373;
+    border-radius: 10px;
+    padding: 30px;
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    background: #dfc1d1;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.linkSection {
+    display: inline;
+}
+
+.btn {
+    border: 2px solid #093373;
+    border-radius: 10px;
+    margin: 0 5px;
+    background-color: #dfc1d1;
+    color: #093373;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.tweet {
+    color: #093373;
+    text-decoration: none; 
+}
